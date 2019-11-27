@@ -24,3 +24,18 @@ html {
   justify-content: center;
   align-items: center;
 }
+.panel1 {
+  background-image: radial-gradient(#33ff99, blue);
+}
+.panel2 {
+  background-image: radial-gradient(orange, blue);
+}
+.panel3 {
+  background-image: radial-gradient(yellow, blue);
+}
+.panel4 {
+  background-image: radial-gradient(pink, blue);
+}
+.panel5 {
+  background-image: radial-gradient(aqua, blue);
+}
